@@ -13,7 +13,7 @@ Les persona choisit :
 Conseils : ajouter la possibilité de personnaliser les applications/ services accessibles  
 
 use cases:
-- * add crous RU to the map * , so the student can see the nearest RU and see the route to go there, with menu
+- add crous RU to the map , so the student can see the nearest RU and see the route to go there, with menu
 - add Leo service in a specific service icon so the student can download important docs like attestation de scolarite, releve de notes...
 - add a link to sport service
 - 
