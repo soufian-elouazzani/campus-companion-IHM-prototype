@@ -6,7 +6,7 @@ D'ici le vendredi prochain on doit :
 Les persona choisit : 
 * Luiz : Profil M2- Master Sciences Social
 * Abdellah : L3 - Gestion IAE
-* Salma : en cours
+* Salma : 1ère année BUT
 * Soufian : en cours
 
 
